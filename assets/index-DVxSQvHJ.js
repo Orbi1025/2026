@@ -17765,26 +17765,21 @@ const jE = [
     });
   },
   ME = [
-    { name: "TikTok", href: "https://www.tiktok.com/@2026onpump" },
-    { name: "X", href: "https://x.com/2026onpump" },
+    { name: "X", href: "https://x.com/NewYear2026_eth" },
     {
       name: "Community",
-      href: "https://x.com/i/communities/1999647908522504425",
-    },
-    {
-      name: "pump.fun",
-      href: "https://pump.fun/coin/CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
+      href: "https://t.me/NewYear2026_eth",
     },
     {
       name: "Dexscreener",
-      href: "https://dexscreener.com/solana/4gfcd6rzk8cjqezwcnfjsp9wva3zstkswvbyqvaaj5hp",
+      href: "https://dexscreener.com/ethereum/0x3b1921cb42500482b0f82466717de3f4e1537b8a",
     },
     {
       name: "Dextools",
-      href: "https://www.dextools.io/app/solana/pair-explorer/4GfcD6RZK8cjqEzWcnFjsp9WvA3ZSTkSwvByQvaAJ5HP",
+      href: "https://www.dextools.io/app/en/ether/pair-explorer/0x3b1921cb42500482b0f82466717de3f4e1537b8a",
     },
   ],
-  wf = "CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
+  wf = "0x3b1921cb42500482b0f82466717de3f4e1537b8a",
   IE = [
     "/videos/vibe-1.mov",
     "/videos/vibe-2.mov",
@@ -17906,13 +17901,6 @@ const jE = [
                     s.name
                   )
                 ),
-                E.jsx("a", {
-                  href: "/weekly-challenge",
-                  className:
-                    "px-10 py-5 border-2 border-dashed border-foreground rounded-xl text-foreground text-base md:text-lg tracking-wide hover:bg-foreground/10 transition-colors",
-                  style: { fontFamily: "'Orbitron', sans-serif" },
-                  children: "Weekly Challenge",
-                }),
               ],
             }),
             E.jsx("div", {
